@@ -4,6 +4,7 @@ public class Task1 {
         if (position <= 5)
             System.out.println("Игрок вошел в топ-5");
         else System.out.println("Игрок не вошел в топ-5");
+        System.out.println("test");
     }
 
 }
